@@ -9,7 +9,7 @@ import java.util.Base64;
  * @Version: 1.0
  */
 public enum Color {
-
+   //修改Enum
     RED("红色",1),GREEN("绿色",2),BLANK("白色", 3), YELLO("黄色", 4);
 
     private  String name;
